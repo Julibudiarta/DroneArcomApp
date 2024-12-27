@@ -1,0 +1,1 @@
+<img src="{" alt="DroneLogBook" class="h-16"><?php /**PATH C:\laragon\www\drone-app-arcom\resources\views/vendor/filament-panels/components/logo.blade.php ENDPATH**/ ?>
